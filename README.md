@@ -1,14 +1,13 @@
 # Basic-Port-Scanner
 Basic Port Scanner  This repository contains a Python implementation of a basic port scanner. The port scanner allows users to scan a specified range of ports on a target IP address to identify open ports. The program uses sockets to attempt connections to the specified ports and reports which ports are open.
-Features
 
-- Port Scanning**: Scan a range of ports on a target IP address to identify open ports.
-- Socket Programming**: Utilizes Python's socket library for network communication.
-- Customizable Port Range**: Specify the start and end ports for the scanning range.
+Features
+- Port Scanning: Scan a range of ports on a target IP address to identify open ports.
+- Socket Programming: Utilizes Python's socket library for network communication.
+- Customizable Port Range: Specify the start and end ports for the scanning range.
 
 
 Usage
-
 1. Clone the repository:
     PShell
     git clone https://github.com/yourusername/port-scanner.git
@@ -22,7 +21,6 @@ Future Enhancements
 Here are some potential future enhancements for the port scanner project, focusing on improving its functionality and usability:
 
 1. Multi-threaded Scanning:
-
 Implement multi-threading to improve the scanning speed by scanning multiple ports concurrently.
 Service Detection:
 Add functionality to detect and display the service running on each open port (e.g., HTTP, FTP).
