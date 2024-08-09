@@ -86,7 +86,7 @@ Feel free to submit issues and enhancement requests. Pull requests are also welc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/port-scanner/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VincentRitchie/Basic-Port-Scanner/blob/main/LICENSE) file for details.
 
 ## Author
 
