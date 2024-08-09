@@ -2,7 +2,7 @@
 # Basic-Port-Scanner
 
 <a>
-  <img src="https://example.com/path_to_your_image.jpeg" alt="Logo" width="500" />
+  <img src="https://github.com/VincentRitchie/Basic-Port-Scanner/blob/main/portscannerpython.png" alt="Logo" width="650" />
 </a>
 
 ## Table of Contents
@@ -42,7 +42,9 @@ Follow the prompts to input the target IP address and the range of ports to scan
 
 ## Screenshot
 
-![screenshot]()
+<a>
+  <img src="https://github.com/VincentRitchie/Basic-Port-Scanner/blob/main/Simple%20Port%20Scanner%20Screenshot.png" alt="Logo" width="650" />
+</a>
 
 ## Future Enhancements
 
